@@ -1,0 +1,26 @@
+
+h4{
+  margin: 20px 0px;
+  font-size: 30px;
+
+}
+.button{
+  font-size: 20px;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+#blue{
+  background-color: blue;
+}
+#green{
+  background-color: green;
+}
+#red{
+  background-color: red;
+}
+#random321{  
+  font-size: 20px;
+  padding: 10px 20px;
+  border: 2px solid black;
+  background: radial-gradient(red, yellow, green, blue, purple, pink, orange, white, black, brown, gray, cyan, magenta, lime, navy, teal, maroon, olive, silver, gold);
+}
